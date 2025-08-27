@@ -8,7 +8,7 @@ version = "0.1.2"  # поднимите номер перед публикаци
 description = "Telegram channel posts & comments scraper (JSONL per channel)"
 readme = { file = "README.md", content-type = "text/markdown" }
 requires-python = ">=3.10"
-license = { text = "MIT" }
+license = { file = "LICENSE" }
 authors = [{ name = "Anna Chizhik" }]
 keywords = ["telegram", "telethon", "scraper", "comments", "jsonl"]
 classifiers = [
